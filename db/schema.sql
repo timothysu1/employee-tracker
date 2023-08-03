@@ -1,9 +1,9 @@
 --Business database
 DROP DATABASE IF EXISTS business_db;
 
-CREATE DATABASE inventory_db;
+CREATE DATABASE business_db;
 
-USE  inventory_db;
+USE business_db;
 
 --department table
 CREATE TABLE department (
